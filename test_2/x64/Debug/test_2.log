@@ -1,0 +1,8 @@
+﻿  test_2.c
+C:\Users\linee\Desktop\新建文件夹 (2)\test_2\test_2.c(128,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\linee\Desktop\新建文件夹 (2)\test_2\test_2.c(128,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\linee\Desktop\新建文件夹 (2)\test_2\test_2.c(129,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\linee\Desktop\新建文件夹 (2)\test_2\test_2.c(129,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\linee\Desktop\新建文件夹 (2)\test_2\test_2.c(130,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\linee\Desktop\新建文件夹 (2)\test_2\test_2.c(130,9): message : 请考虑在格式字符串中使用“%zd”
+  test_2.vcxproj -> C:\Users\linee\Desktop\新建文件夹 (2)\test_2\x64\Debug\test_2.exe
